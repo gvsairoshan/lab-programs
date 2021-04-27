@@ -1,3 +1,4 @@
+//string copy without using strcpy
 #include <stdio.h>
 #include <string.h>
 int main()
