@@ -1,3 +1,4 @@
+//string concat without strcat
 #include <stdio.h>
 int main()
 {
